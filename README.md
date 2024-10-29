@@ -1,3 +1,4 @@
+<img src="https://static.vecteezy.com/system/resources/thumbnails/017/383/808/small_2x/coding-system-minimal-infographic-banner-vector.jpg">
 <h1 align="center">Hi 👋, I'm Imen</h1>
 <h3 align="center">A passionate IT student from Tunisia</h3>
 
